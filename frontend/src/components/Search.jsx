@@ -17,7 +17,7 @@ const Search = () => {
             console.log('hoi');
 
             const res = await fetch(
-                `http://localhost:4000/api/v1/user/search?query=${searchQuery}`,
+                `https://social-media-clone-w49z.onrender.com/api/v1/user/search?query=${searchQuery}`,
                 {
                     method: "GET",
                     credentials: "include",
