@@ -10,8 +10,7 @@ A full-stack **MERN + Socket.IO** application enabling real-time messaging, noti
 ---
 
 ## 🌐 Live Demo
-> Add your deployed link here  
-`https://your-app-url.com`
+https://social-media-clone-w49z.onrender.com
 
 ---
 
